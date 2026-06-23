@@ -1,4 +1,4 @@
-# 🏖️ Smart Leave Management System
+# 📄 Smart Leave Management System
 
 A ServiceNow-based application that automates employee leave requests, approval workflows, leave day calculations, and request tracking.
 
