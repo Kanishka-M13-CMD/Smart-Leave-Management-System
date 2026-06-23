@@ -1,1 +1,0 @@
-# Smart-Leave-Management-System
